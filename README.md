@@ -8,9 +8,13 @@ It can be easily modified to support more sorting using more folders based on a 
 # Features
 Select a directory manually or via a file dialog.
 Sorts files by extensions into appropriate folders:
+<br>
 .jpg, .png → Photos
+<br>
 .pdf, .doc, .docx → Documents
+<br>
 .exe → General Programs
-Other file types → Other
+<br>
+
 Alerts you when files have been successfully sorted or if no files were moved.
 
